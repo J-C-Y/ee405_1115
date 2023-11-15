@@ -1,0 +1,11 @@
+<launch>
+
+  <!-- Run simple_publisher_node.py -->
+  <node name="simple_publisher_node" pkg="assignment1" type="simple_publisher_node.py" output="screen">
+  </node>
+
+  <!-- Run data_processor.py -->
+  <node name="data_processor" pkg="assignment1" type="data_processor.py" output="screen">
+  </node>
+
+</launch>

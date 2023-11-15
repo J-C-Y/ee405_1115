@@ -1,0 +1,11 @@
+<launch>
+
+  <!-- Run test_publisher.py -->
+  <node name="talker" pkg="beginner_tutorials" type="talker.py" output="screen">
+  </node>
+
+  <!-- Run test_pub_sub.py -->
+  <node name="test_pub_sub" pkg="beginner_tutorials" type="test_pub_sub.py" output="screen">
+  </node>
+
+</launch>

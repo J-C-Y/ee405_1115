@@ -1,0 +1,2 @@
+assignment1:beginner_tutorials:eurecarr_vehicle_sim:local_costmap_generator:simple_vehicle_sim:waypoint_follower
+-DCATKIN_DEVEL_PREFIX=/home/chaeyun/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/chaeyun/catkin_ws/install -G Unix Makefiles

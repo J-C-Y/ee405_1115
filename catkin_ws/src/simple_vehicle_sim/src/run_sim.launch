@@ -1,0 +1,4 @@
+<launch>
+  <node name="rviz" pkg="rviz" type="rviz" args="-d $(find simple_vehicle_sim)/cfg/dynamics_simulation.rviz" />
+
+</launch>

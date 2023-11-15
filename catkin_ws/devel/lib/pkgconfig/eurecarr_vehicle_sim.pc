@@ -1,0 +1,8 @@
+prefix=/home/chaeyun/catkin_ws/devel
+
+Name: eurecarr_vehicle_sim
+Description: Description of eurecarr_vehicle_sim
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
